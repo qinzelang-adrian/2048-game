@@ -34,4 +34,6 @@ python 2048游戏.py
 
 在 [Releases](../../releases) 页面下载打包好的 `2048游戏.exe`（仅支持 Windows），双击即可运行，无需安装 Python 环境。
 
-## 项目结构
+## 许可
+
+MIT
